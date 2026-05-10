@@ -1,0 +1,1058 @@
+[
+    {
+        "id": "0",
+        "codigo": "1005",
+        "empresa": "TRANSPORTES Y SERVICIOS SANTA CRUZ S A",
+        "destino": "CARABAYLLO ↔ RIMAC",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.888,
+                -77.035
+            ],
+            [
+                -11.945,
+                -77.051
+            ],
+            [
+                -12.002,
+                -77.032
+            ],
+            [
+                -12.036,
+                -77.028
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Punchauca",
+                "coord": [
+                    -11.888,
+                    -77.035
+                ]
+            },
+            {
+                "nombre": "Uni",
+                "coord": [
+                    -12.02,
+                    -77.03
+                ]
+            },
+            {
+                "nombre": "Tacna",
+                "coord": [
+                    -12.036,
+                    -77.028
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1018",
+        "empresa": "EMPRESA DE TRANSPORTES ONCE DE NOVIEMBRE",
+        "destino": "CARABAYLLO ↔ SAN LUIS",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.89,
+                -77.04
+            ],
+            [
+                -11.968,
+                -77.059
+            ],
+            [
+                -12.045,
+                -77.025
+            ],
+            [
+                -12.071,
+                -77.001
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Lomas",
+                "coord": [
+                    -11.89,
+                    -77.04
+                ]
+            },
+            {
+                "nombre": "Caquetá",
+                "coord": [
+                    -12.035,
+                    -77.035
+                ]
+            },
+            {
+                "nombre": "La Victoria",
+                "coord": [
+                    -12.071,
+                    -77.001
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1046",
+        "empresa": "TRANSPORT SABINO BA?OS S.A.C.",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ LINCE",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.912,
+                -76.995
+            ],
+            [
+                -12.015,
+                -77.012
+            ],
+            [
+                -12.046,
+                -77.031
+            ],
+            [
+                -12.083,
+                -77.035
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Canto Grande",
+                "coord": [
+                    -11.912,
+                    -76.995
+                ]
+            },
+            {
+                "nombre": "Abancay",
+                "coord": [
+                    -12.046,
+                    -77.028
+                ]
+            },
+            {
+                "nombre": "Risso",
+                "coord": [
+                    -12.083,
+                    -77.035
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1048",
+        "empresa": "EMPRESA DE TRANSPORTES 12 DE ENERO SOCIEDAD ANONIMA",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ LINCE",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.92,
+                -76.985
+            ],
+            [
+                -12.02,
+                -77.015
+            ],
+            [
+                -12.052,
+                -77.034
+            ],
+            [
+                -12.085,
+                -77.032
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Bayóvar",
+                "coord": [
+                    -11.92,
+                    -76.985
+                ]
+            },
+            {
+                "nombre": "Achuche",
+                "coord": [
+                    -12.03,
+                    -77.01
+                ]
+            },
+            {
+                "nombre": "Hospital Lince",
+                "coord": [
+                    -12.085,
+                    -77.032
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1131",
+        "empresa": "EMPRESA DE TRANSPORTES Y SERVICIOS VIRGEN DE LA PUERTA S.A.",
+        "destino": "VENTANILLA ↔ LA VICTORIA",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.875,
+                -77.122
+            ],
+            [
+                -12.005,
+                -77.105
+            ],
+            [
+                -12.058,
+                -77.065
+            ],
+            [
+                -12.065,
+                -77.032
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Ventanilla Alta",
+                "coord": [
+                    -11.875,
+                    -77.122
+                ]
+            },
+            {
+                "nombre": "Faucett",
+                "coord": [
+                    -12.01,
+                    -77.1
+                ]
+            },
+            {
+                "nombre": "Gamarra",
+                "coord": [
+                    -12.065,
+                    -77.032
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1160",
+        "empresa": "MULTISERVICIOS E INVERSIONES CHIM PUM CALLAO S.A.",
+        "destino": "VENTANILLA ↔ ATE",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.865,
+                -77.13
+            ],
+            [
+                -12.012,
+                -77.085
+            ],
+            [
+                -12.045,
+                -77.012
+            ],
+            [
+                -12.048,
+                -76.925
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Pachacutec",
+                "coord": [
+                    -11.865,
+                    -77.13
+                ]
+            },
+            {
+                "nombre": "Plaza Norte",
+                "coord": [
+                    -11.995,
+                    -77.06
+                ]
+            },
+            {
+                "nombre": "Santa Anita",
+                "coord": [
+                    -12.048,
+                    -76.925
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1187",
+        "empresa": "EMPRESA DE TRANSPORTES Y SERVICIOS SE?OR DE NAZARENO S.A.C.",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ CERCADO DE LIMA",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.935,
+                -76.975
+            ],
+            [
+                -12.025,
+                -77.008
+            ],
+            [
+                -12.045,
+                -77.028
+            ],
+            [
+                -12.052,
+                -77.045
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Montenegro",
+                "coord": [
+                    -11.935,
+                    -76.975
+                ]
+            },
+            {
+                "nombre": "Puente Nuevo",
+                "coord": [
+                    -12.035,
+                    -77.005
+                ]
+            },
+            {
+                "nombre": "Dos de Mayo",
+                "coord": [
+                    -12.052,
+                    -77.045
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1189",
+        "empresa": "EMPRESA DE TRANSP. Y SERV. EL INTI S.A.",
+        "destino": "SAN MARTIN DE PORRES ↔ LA MOLINA",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -12.005,
+                -77.082
+            ],
+            [
+                -12.042,
+                -77.031
+            ],
+            [
+                -12.072,
+                -76.975
+            ],
+            [
+                -12.085,
+                -76.928
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Habich",
+                "coord": [
+                    -12.005,
+                    -77.082
+                ]
+            },
+            {
+                "nombre": "Paseo Colón",
+                "coord": [
+                    -12.055,
+                    -77.035
+                ]
+            },
+            {
+                "nombre": "U. de Lima",
+                "coord": [
+                    -12.085,
+                    -76.928
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1197",
+        "empresa": "EMP.DE TRANSP DIECISIETE DE JUNIO S.A",
+        "destino": "SAN MARTIN DE PORRES ↔ SANTIAGO DE SURCO",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.995,
+                -77.091
+            ],
+            [
+                -12.055,
+                -77.075
+            ],
+            [
+                -12.095,
+                -77.025
+            ],
+            [
+                -12.128,
+                -76.998
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Canta Callao",
+                "coord": [
+                    -11.995,
+                    -77.091
+                ]
+            },
+            {
+                "nombre": "Alfonso Ugarte",
+                "coord": [
+                    -12.045,
+                    -77.045
+                ]
+            },
+            {
+                "nombre": "Benavides",
+                "coord": [
+                    -12.128,
+                    -76.998
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1233",
+        "empresa": "EMPRESA DE TRANSPORTES Y SERVICIOS SAN PEDRO DE PAMPLONA S.A.",
+        "destino": "SAN JUAN DE MIRAFLORES ↔ SAN MARTIN DE PORRES",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -12.165,
+                -76.965
+            ],
+            [
+                -12.115,
+                -77.005
+            ],
+            [
+                -12.045,
+                -77.035
+            ],
+            [
+                -11.998,
+                -77.075
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "San Juan",
+                "coord": [
+                    -12.165,
+                    -76.965
+                ]
+            },
+            {
+                "nombre": "Angamos",
+                "coord": [
+                    -12.11,
+                    -77.02
+                ]
+            },
+            {
+                "nombre": "Mega Plaza",
+                "coord": [
+                    -11.998,
+                    -77.075
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1234",
+        "empresa": "EMPRESA DE TRANSPORTES LA UNIDAD DE VILLA S.A.",
+        "destino": "SAN JUAN DE MIRAFLORES ↔ LA PERLA",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -12.158,
+                -76.958
+            ],
+            [
+                -12.125,
+                -77.015
+            ],
+            [
+                -12.095,
+                -77.055
+            ],
+            [
+                -12.065,
+                -77.112
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Valle",
+                "coord": [
+                    -12.158,
+                    -76.958
+                ]
+            },
+            {
+                "nombre": "Surco",
+                "coord": [
+                    -12.135,
+                    -77.0
+                ]
+            },
+            {
+                "nombre": "Minka",
+                "coord": [
+                    -12.065,
+                    -77.112
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1252",
+        "empresa": "EMPRESA DE SERVICIO ESPECIAL DE TRANSPORTE SAN JUDAS TADEO S.A.",
+        "destino": "VILLA MARIA DEL TRIUNFO ↔ SAN MIGUEL",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -12.175,
+                -76.935
+            ],
+            [
+                -12.135,
+                -77.008
+            ],
+            [
+                -12.085,
+                -77.055
+            ],
+            [
+                -12.078,
+                -77.085
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Hospital VMT",
+                "coord": [
+                    -12.175,
+                    -76.935
+                ]
+            },
+            {
+                "nombre": "Marsano",
+                "coord": [
+                    -12.12,
+                    -77.015
+                ]
+            },
+            {
+                "nombre": "Plaza San Miguel",
+                "coord": [
+                    -12.078,
+                    -77.085
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1256",
+        "empresa": "EMPRESA BUSINESS CORPORATION MILENIUM S.A.C.",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ CARMEN DE LA LEGUA REYNOSO",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.942,
+                -76.968
+            ],
+            [
+                -12.015,
+                -77.005
+            ],
+            [
+                -12.045,
+                -77.082
+            ],
+            [
+                -12.055,
+                -77.125
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Campoy",
+                "coord": [
+                    -11.942,
+                    -76.968
+                ]
+            },
+            {
+                "nombre": "Avenida Perú",
+                "coord": [
+                    -12.035,
+                    -77.07
+                ]
+            },
+            {
+                "nombre": "Obelisco",
+                "coord": [
+                    -12.055,
+                    -77.125
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1284",
+        "empresa": "EMPRESA DE TRANSPORTES TREINTITRES S.A.",
+        "destino": "SAN MARTIN DE PORRES ↔ VILLA EL SALVADOR",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.985,
+                -77.085
+            ],
+            [
+                -12.055,
+                -77.045
+            ],
+            [
+                -12.125,
+                -76.985
+            ],
+            [
+                -12.155,
+                -76.935
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Chuquitanta",
+                "coord": [
+                    -11.985,
+                    -77.085
+                ]
+            },
+            {
+                "nombre": "Plaza Bolognesi",
+                "coord": [
+                    -12.058,
+                    -77.042
+                ]
+            },
+            {
+                "nombre": "VES",
+                "coord": [
+                    -12.155,
+                    -76.935
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1289",
+        "empresa": "STARLET CONSORCIO S.A.",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ JESUS MARIA",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.948,
+                -76.955
+            ],
+            [
+                -12.025,
+                -77.012
+            ],
+            [
+                -12.045,
+                -77.035
+            ],
+            [
+                -12.075,
+                -77.048
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Las Flores",
+                "coord": [
+                    -11.948,
+                    -76.955
+                ]
+            },
+            {
+                "nombre": "Chancay",
+                "coord": [
+                    -12.042,
+                    -77.038
+                ]
+            },
+            {
+                "nombre": "Hospital Rebagliati",
+                "coord": [
+                    -12.075,
+                    -77.048
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1300",
+        "empresa": "CORPORACION ROMA INTERNATIONAL SOCIEDAD ANONIMA CERRADA",
+        "destino": "VENTANILLA ↔ SAN JUAN DE LURIGANCHO",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.868,
+                -77.128
+            ],
+            [
+                -12.005,
+                -77.085
+            ],
+            [
+                -12.042,
+                -77.015
+            ],
+            [
+                -11.955,
+                -76.985
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Mi Perú",
+                "coord": [
+                    -11.868,
+                    -77.128
+                ]
+            },
+            {
+                "nombre": "Tomás Valle",
+                "coord": [
+                    -12.005,
+                    -77.075
+                ]
+            },
+            {
+                "nombre": "Wiesse",
+                "coord": [
+                    -11.955,
+                    -76.985
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1316",
+        "empresa": "CORPORACION ROMA INTERNATIONAL SOCIEDAD ANONIMA CERRADA",
+        "destino": "VENTANILLA ↔ SAN JUAN DE LURIGANCHO",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.872,
+                -77.132
+            ],
+            [
+                -12.012,
+                -77.092
+            ],
+            [
+                -12.048,
+                -77.022
+            ],
+            [
+                -11.962,
+                -76.992
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Angamos Ventanilla",
+                "coord": [
+                    -11.872,
+                    -77.132
+                ]
+            },
+            {
+                "nombre": "Panamericana",
+                "coord": [
+                    -12.015,
+                    -77.05
+                ]
+            },
+            {
+                "nombre": "SJL",
+                "coord": [
+                    -11.962,
+                    -76.992
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1346",
+        "empresa": "EMPRESA DE TRANSPORTE NUEVO SAN JUAN S.A",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ CALLAO",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.955,
+                -76.945
+            ],
+            [
+                -12.028,
+                -77.015
+            ],
+            [
+                -12.048,
+                -77.055
+            ],
+            [
+                -12.062,
+                -77.122
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Huáscar",
+                "coord": [
+                    -11.955,
+                    -76.945
+                ]
+            },
+            {
+                "nombre": "Evitamiento",
+                "coord": [
+                    -12.035,
+                    -77.01
+                ]
+            },
+            {
+                "nombre": "Faucett",
+                "coord": [
+                    -12.062,
+                    -77.122
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1465",
+        "empresa": "EMPRESA DE TRANSPORTES Y SERVICIOS GUADULFO SILVA CARBAJAL S.A",
+        "destino": "PACHACAMAC ↔ BRE?A",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -12.235,
+                -76.885
+            ],
+            [
+                -12.155,
+                -76.985
+            ],
+            [
+                -12.085,
+                -77.025
+            ],
+            [
+                -12.055,
+                -77.048
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Manchay",
+                "coord": [
+                    -12.235,
+                    -76.885
+                ]
+            },
+            {
+                "nombre": "Atocongo",
+                "coord": [
+                    -12.145,
+                    -76.965
+                ]
+            },
+            {
+                "nombre": "Breña",
+                "coord": [
+                    -12.055,
+                    -77.048
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1490",
+        "empresa": "EMPRESA DE TRANSPORTES ESPECIAL SOLIDARIDAD S.A.",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ VILLA MARIA DEL TRIUNFO",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.962,
+                -76.935
+            ],
+            [
+                -12.035,
+                -77.005
+            ],
+            [
+                -12.115,
+                -76.955
+            ],
+            [
+                -12.185,
+                -76.925
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Mariscal Cáceres",
+                "coord": [
+                    -11.962,
+                    -76.935
+                ]
+            },
+            {
+                "nombre": "Guzmán Blanco",
+                "coord": [
+                    -12.058,
+                    -77.045
+                ]
+            },
+            {
+                "nombre": "Terminal VMT",
+                "coord": [
+                    -12.185,
+                    -76.925
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1492",
+        "empresa": "EMPRESA DE TRANSPORTES Y SERVICIOS SALVADOR S.A.C.",
+        "destino": "VILLA EL SALVADOR ↔ LOS OLIVOS",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -12.215,
+                -76.932
+            ],
+            [
+                -12.125,
+                -76.975
+            ],
+            [
+                -12.045,
+                -77.025
+            ],
+            [
+                -11.985,
+                -77.065
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Ruta C",
+                "coord": [
+                    -12.215,
+                    -76.932
+                ]
+            },
+            {
+                "nombre": "Pte. Alipio",
+                "coord": [
+                    -12.155,
+                    -76.985
+                ]
+            },
+            {
+                "nombre": "Naranjal",
+                "coord": [
+                    -11.985,
+                    -77.065
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0",
+        "codigo": "1493",
+        "empresa": "EMPRESA DE TRANSPORTES PROCERES S.A.",
+        "destino": "SAN JUAN DE LURIGANCHO ↔ SANTIAGO DE SURCO",
+        "color": "#3b82f6",
+        "puntos": [
+            [
+                -11.975,
+                -76.925
+            ],
+            [
+                -12.045,
+                -76.995
+            ],
+            [
+                -12.085,
+                -77.025
+            ],
+            [
+                -12.135,
+                -76.985
+            ]
+        ],
+        "paraderos": [
+            {
+                "nombre": "Jicamarca",
+                "coord": [
+                    -11.975,
+                    -76.925
+                ]
+            },
+            {
+                "nombre": "Grau",
+                "coord": [
+                    -12.055,
+                    -77.032
+                ]
+            },
+            {
+                "nombre": "Jockey Plaza",
+                "coord": [
+                    -12.135,
+                    -76.985
+                ]
+            }
+        ]
+    }
+]
